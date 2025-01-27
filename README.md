@@ -11,7 +11,7 @@ through the game.
 To play **Super Volt**, follow these simple steps:
 
 1. **Download the Game Files**:
-   - Download the ZIP file from this repository named **SUPER_VOLT_APK**.
+   - Download the ZIP file from this repository named **SUPER_VOLT**.
    - Extract the contents to a directory on your computer.
 
 2. **Locate the Game Executable**:
